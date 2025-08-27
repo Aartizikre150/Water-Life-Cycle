@@ -1,4 +1,8 @@
 # 🌊 Water Life Cycle – Interactive Dashboard
+<p align="center">
+  <img src="./assets/banner.png" alt="Power BI Dataviz Challenge" width="100%">
+</p>
+
 🔗 **[Live Project Link](https://community.fabric.microsoft.com/t5/Contests-Gallery/Water-Life-Cycle/td-p/4611138)**  
 
 📌 **Project Overview**  
